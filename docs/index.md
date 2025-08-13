@@ -1,13 +1,18 @@
 ---
-title: "Portafolio — Inicio"
-date: 2025-01-01
+title: "Portafolio — Ingeniería de Datos"
+date: 2025-08-13
 ---
 
-# Portafolio — Inicio
+# Portafolio — Ingeniería de Datos
 
-Bienvenido al portafolio del curso. Aquí documentarás tu progreso,
-evidencias y reflexiones a lo largo del semestre.
+## Docente del curso
 
-- Revisa la sección "Acerca de mí" para presentarte.
-- Crea entradas en `Portfolio` usando la plantilla provista.
-- Mantén objetivos, actividades y evidencias claros por entrada.
+Juan Francisco Kurucz
+
+## Breve descripción del curso
+
+El curso Ingeniería de datos se centra en los aspectos fundamentales para la preparación, tratamiento y representación de los datos; los cuales son esenciales en cualquier proyecto.
+
+## Objetivos del curso
+
+Espero ser capaz de dominar las técnicas de preparación y limpieza de datos para usarlos en modelos de IA. 
