@@ -7,6 +7,17 @@ theme:
     - navigation.indexes
   logo: assets/img/logo.png
   favicon: assets/img/logo.png
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a oscuro
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a claro
 plugins:
   - search
   - awesome-pages
@@ -28,3 +39,4 @@ markdown_extensions:
       custom_checkbox: true
 extra_css:
   - css/extra.css
+  - css/extra1.css

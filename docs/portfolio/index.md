@@ -1,13 +1,12 @@
 ---
-title: "Índice del Portafolio"
-date: 2025-01-01
+title: "Índice del Portfolio"
+date: 2025-08-13
 ---
 
-# Portafolio
+# Índice del Portfolio
 
-Bienvenido a las entradas del portafolio. Usá la plantilla para crear nuevas páginas numeradas
-(`01-...`, `02-...`).
+Bienvenido al índice del Portfolio. Aquí veras todo el trabajo realizado durante el curso Ingeniería de Datos. 
 
-- Plantilla: [plantilla.md](plantilla.md)
-- Primera entrada: [01-primera-entrada.md](01-primera-entrada.md)
+
+<a href="portfolio/1_dataset_iris/"class="custom-link">🌸 Práctica 1: Exploración del dataset Iris</a>
 

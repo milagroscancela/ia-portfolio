@@ -1,0 +1,15 @@
+nav .md-nav__link--active,
+nav .md-nav__link:focus,
+nav .md-nav__link:hover {
+  color: palevioletred !important;
+}
+
+.custom-link {
+    color: palevioletred !important; /* Cambia este color al que prefieras */
+    text-decoration: none; /* Opcional: elimina el subrayado */
+  }
+  
+  .custom-link:hover {
+    color: darkviolet !important; /* Cambia el color al pasar el cursor */
+    text-decoration: underline; /* Opcional: agrega subrayado al pasar el cursor */
+  }
