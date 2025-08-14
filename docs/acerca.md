@@ -5,7 +5,7 @@ date: 2025-08-13
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="assets/img_ln/foto_linkedin.png"
+  <img src="/Users/milagroscancela/Desktop/web_ing_data/ia-portfolio/docs/assets/img_ln/foto_linkedin.png"
        alt="Foto de Milagros Cancela"
        style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 
